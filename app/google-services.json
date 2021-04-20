@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986622365188",
+    "project_id": "songuesser-4e5e2",
+    "storage_bucket": "songuesser-4e5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986622365188:android:d85ed7d80961d09428ef51",
+        "android_client_info": {
+          "package_name": "com.example.songuesser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986622365188-k5vvteo0fqmdh8s11oh8d1io6a3ruvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVm12_QAqHXIm2y5_1xKeBrdR0dH8YLGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986622365188-k5vvteo0fqmdh8s11oh8d1io6a3ruvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
